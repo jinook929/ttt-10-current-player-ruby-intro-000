@@ -1,5 +1,6 @@
-def turn_count(board1)
-  
+def turn_count(board)
+  counter = 10
+  if()
 end
 
 
