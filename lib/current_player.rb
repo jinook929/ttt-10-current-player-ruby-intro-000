@@ -3,4 +3,6 @@ def turn_count(board1)
 end
 
 
-def 
+def current_player(board)
+  
+end
