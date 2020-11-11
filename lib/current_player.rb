@@ -1,6 +1,10 @@
 def turn_count(board)
-  counter = 10
-  if()
+  counter = 0
+  index = 0
+  while(index < 9)
+    if(board[index] != " " || )
+    index += 1
+  end
 end
 
 
